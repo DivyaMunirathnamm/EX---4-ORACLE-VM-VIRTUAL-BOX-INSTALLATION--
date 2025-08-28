@@ -1,4 +1,3 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/334f67ff-8675-420d-a39a-3ad23e0a7a10" /># EX---4-ORACLE-VM-VIRTUAL-BOX-INSTALLATION--
 # EX---4-ORACLE-VM-VIRTUAL-BOX-INSTALLATION--
  ## AIM:
 To install Oracle VM VirtualBox, a free and open-source hosted hypervisor, on a computer system,enabling the creation and management of virtual machines for running multiple operating systems on a single host machine
